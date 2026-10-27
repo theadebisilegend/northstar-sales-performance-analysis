@@ -60,7 +60,7 @@ Higher discount rates did not consistently correspond to lower gross profit marg
 
 ## Dashboard Preview
 
-![Northstar Sales Performance Dashboard](dashboard.png)
+![Northstar Sales Performance Dashboard](Northstar_dashboard.png)
 
 ## Project Limitations
 
