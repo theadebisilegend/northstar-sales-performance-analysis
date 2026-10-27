@@ -75,7 +75,7 @@ Microsoft Excel · Data Cleaning · XLOOKUP · PivotTables · PivotCharts · GET
 
 ## Project Files
 
-- `Northstar_Sales_Analysis.xlsx` — Excel workbook containing the dataset, analysis, dashboard and management summary.
-- `dashboard.png` — Screenshot of the final dashboard.
+- `Northstar_Excel_Project_1.xlsx` — Excel workbook containing the dataset, analysis, dashboard and management summary.
+- `Northstar_dashboard.png` — Screenshot of the final dashboard.
 
 *This is a fictional business analysis project created for learning and portfolio development.*
